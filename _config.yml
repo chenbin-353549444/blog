@@ -78,4 +78,6 @@ theme: yelee
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:chenbin-353549444/chenbin-353549444.github.io.git
+  branch: master
