@@ -88,7 +88,7 @@ live2d:
     width: 70
     height: 140
   mobile:
-    show: true
+    show: false
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
