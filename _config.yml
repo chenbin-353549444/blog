@@ -96,3 +96,12 @@ deploy:
   type: git
   repo: git@github.com:chenbin-353549444/chenbin-353549444.github.io.git
   branch: master
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
