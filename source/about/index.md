@@ -29,6 +29,8 @@ date: 2018-03-26 14:18:26
 > - 容器
 >   - [Docker](https://www.docker.com) : Docker is the world’s leading software containerization platform.
 >   - [Docker Hub](https://hub.docker.com) : Dev-test pipeline automation, 100,000+ free apps, public and private registries.
+> - 编排
+>   - [Kubernetes](https://kubernetes.io) : Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.
 
 ## 前端相关
 > - [jQuery](http://jquery.com) : jQuery is a fast, small, and feature-rich JavaScript library.
