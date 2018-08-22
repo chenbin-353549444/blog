@@ -14,5 +14,5 @@ comments: false
 ***
 
 <div class="pic">
-<img src="/images/qq.jpg" title="微信">
+<img src="/images/qq.jpg" title="QQ">
 </div>
