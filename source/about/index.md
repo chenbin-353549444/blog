@@ -18,6 +18,7 @@ date: 2018-03-26 14:18:26
 > - 版本控制
 >   - [**Git** : Git is a free and open source distributed version control system.](https://git-scm.com)
 >   - [**GitHub** : Build software better, together.](https://github.com)
+>   - [**GitLab** : The only single product for the entire DevOps lifecycle - GitLab](https://gitlab.com)
 >   - [**Gitee** : 开源中国 Git 代码托管平台](https://gitee.com)
 
 ## 运维相关
