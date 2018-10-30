@@ -6,6 +6,7 @@
     "version": "3.6.0"
   },
   "dependencies": {
+    "cryptiles": ">=4.1.2",
     "hexo": "^3.2.0",
     "hexo-deployer-git": "^0.3.1",
     "hexo-generator-archive": "^0.1.4",
@@ -20,7 +21,7 @@
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-server": "^0.2.0",
     "live2d-widget-model-koharu": "^1.0.5",
-    "cryptiles": ">=4.1.2",
+    "pdfobject": "^2.1.1",
     "randomatic": ">=3.0.0"
   }
 }
