@@ -95,7 +95,7 @@ live2d:
 deploy:
   type: git
   repo: git@gitee.com:chenbinHongfund/blog.git
-  branch: gitee
+  branch: master
 
 feed:
   type: atom
