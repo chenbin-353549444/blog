@@ -56,11 +56,11 @@ date: 2018-03-26 20:11:25
 ***
 
 <div class="pic">
-<img src="/404.gif" title="哎呀，悲剧啦！">
+<img src="/blog/404.gif" title="哎呀，悲剧啦！">
 </div>
 
 <p class="center">很抱歉，您所访问的地址并不存在: </p>
 
-<p class="center"><a href="/">回主页</a> · <a href="/archives">所有文章</a> · <a href="/about">关于我</a></p>
+<p class="center"><a href="/blog/">回主页</a> · <a href="/blog/archives">所有文章</a> · <a href="/blog/about">关于我</a></p>
 
 <p class="center">可在边栏搜索框中对本站进行检索，以获取相关信息。</p>
